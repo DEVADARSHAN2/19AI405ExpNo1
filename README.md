@@ -1,6 +1,6 @@
 # ExpNo 1: Developing AI Agent with PEAS Description
-<h3>Name: Saravanan N</h3>
-<h3>Register Number/Staff Id: TSML006</h3>
+<h3>Name: DEVADARSHAN A S</h3>
+<h3>Register Number: 212222110007</h3>
 
 ### AIM:
 To find the PEAS description for the given AI problem and develop an AI agent
